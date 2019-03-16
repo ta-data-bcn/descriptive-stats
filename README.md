@@ -42,7 +42,7 @@ Read the csv `ages_population.csv`. Here you have a poll we did to people from h
 Now is the turn of `ages_population3.csv`.
 * Calculate the frequency distribution and plot it as we did during the lesson. 
 * Calculate the mean and std and compare with the plot. What is happening?
-* Calculate the four quartiles and give some arguments for the last question using them.
+* Calculate the four quartiles and give some arguments for the last question using them. How much difference there is between median and mean?
 * Calculate some other percentiles that can be useful to give more arguments. 
 
 ## Bonus challenge

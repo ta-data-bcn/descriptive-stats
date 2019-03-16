@@ -11,7 +11,7 @@ This lab is meant to guide you to understand a better the basic statistics. Also
 * Calculate the frequency distribution and plot it. What is the relation between this plot and the other one? Describe it with words.
 
 ## Challenge 2
-Read the csv `roll_the_dice_hundred.csv` and define some functions to calculate the mean in two ways:
+With the results of your dice of the challenge 1, define some functions to calculate the mean in two ways:
 * Summing all the observations separately (no method allowed!)
 * Calculate first the frequency distribution and then the mean with the values of the distribution (no other methods allowed!)
 * Define a function to calculate the median. No method allowed!
@@ -20,9 +20,11 @@ Read the csv `roll_the_dice_hundred.csv` and define some functions to calculate 
 
 
 ## Challenge 3
+Read the csv `roll_the_dice_hundred.csv`
+* Plot the values sorted. What do you see?
 * With the functions you defined in the challenge 2, calculate the mean of the rollings.
 * Calculate the frequency distribution.
-* Plot the histogram as we did during the lesson. What do you see? (shape, values...) how could you connect the value of the mean to the plot you see?
+* Plot the histogram as we did during the lesson. What do you see? (shape, values...) how could you connect the value of the mean to the plot you see? 
 * Now read the `roll_the_dice_thousand.csv` and plot the frequency distribution in the same way you did it before.
 What has changed? Why do you think it is changing?
 
